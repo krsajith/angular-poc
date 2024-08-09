@@ -1,0 +1,11 @@
+.wrapper{
+    padding: 2rem;
+    background-color: #8AB6F9;
+}
+
+.content {
+    height: 2000px;
+    width: 100%;
+    background-color: #00246B;
+}
+

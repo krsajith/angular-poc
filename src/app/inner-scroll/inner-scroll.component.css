@@ -1,0 +1,18 @@
+/* <div class="wrapper">
+    <div class="content"> */
+
+
+.wrapper{
+    height: 100%;
+    max-height: 100%;
+    padding: 2rem;
+    background-color: #8AB6F9;
+    overflow-y: auto;
+}
+
+.content {
+    height: 2000px;
+    width: 100%;
+    background-color: #00246B;
+}
+
